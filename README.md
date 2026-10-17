@@ -25,7 +25,7 @@ This project was created to gain practical experience in WordPress website devel
 
 <img width="1600" height="740" alt="Homepage" src="https://github.com/user-attachments/assets/2830649b-d181-464d-b116-003628065ee1" />
 
-### Services Page
+### Service Page
 
 <img width="1600" height="717" alt="services" src="https://github.com/user-attachments/assets/ecd8e1d5-1216-423a-ab85-9abdee304ef9" />
 
