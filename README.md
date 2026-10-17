@@ -15,10 +15,20 @@ The website presents a dental clinic through a structured layout that allows vis
 - Elementor
 - WordPress Plugins
 
-## Development
-
-The website was created locally using WordPress. During development, I worked on customizing the website layout, organizing its pages, and configuring the tools and plugins used in the project.
-
 ## Purpose
 
 This project was created to gain practical experience in WordPress website development and to showcase my work in building websites for different types of businesses.
+
+## 📸 Website Preview
+
+### Homepage
+![Dental Clinic Homepage](./homepage.png)
+
+### Services Page
+![Dental Clinic Services](./services.png)
+
+### About Page
+![About the Dental Clinic](./about.png)
+
+### Contact Page
+![Contact the Dental Clinic](./contact.png)
